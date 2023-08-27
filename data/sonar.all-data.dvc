@@ -1,0 +1,5 @@
+outs:
+- md5: 0f0265348129ba2f72f76d9adc7b36b6
+  size: 87984
+  hash: md5
+  path: sonar.all-data
