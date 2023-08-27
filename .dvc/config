@@ -1,0 +1,5 @@
+['remote "myremote"']
+    url = gdrive://1x2h-3nGy6bNA8kRGpATGrGgrDo9QLrIt
+    gdrive_client_id = "'client-id'"
+    gdrive_client_secret = "'client-secret'"
+    gdrive_use_service_account = true
